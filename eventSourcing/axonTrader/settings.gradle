@@ -1,4 +1,0 @@
-rootProject.name = 'axonTrader'
-include 'common'
-include 'tradeCreator'
-include 'tradeQueries'

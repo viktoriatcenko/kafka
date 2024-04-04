@@ -24,7 +24,7 @@ idea {
 
 
 allprojects {
-    group = "ru.otus"
+    group = "ru.maxima"
 
     repositories {
         mavenLocal()

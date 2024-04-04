@@ -1,2 +1,1 @@
-# jvm-digging
-Different JVM related things
+# Kafka with Docker-compose ZooKeeper

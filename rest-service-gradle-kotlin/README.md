@@ -1,1 +1,0 @@
-# Gradle plugin usage example

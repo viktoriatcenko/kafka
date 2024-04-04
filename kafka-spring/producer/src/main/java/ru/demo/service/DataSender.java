@@ -1,7 +1,7 @@
 package ru.demo.service;
 
-import ru.demo.model.StringValue;
+import ru.demo.model.MessageValue;
 
 public interface DataSender {
-    void send(StringValue value);
+    void send(MessageValue value);
 }
